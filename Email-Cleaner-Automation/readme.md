@@ -65,7 +65,7 @@ gmail-cleaner/
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/gmail-cleaner.git
+gh repo clone UbaisAd/Python-based-projects
 ```
 
 Move into project folder:
