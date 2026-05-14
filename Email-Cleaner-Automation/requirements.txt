@@ -1,0 +1,9 @@
+# Gmail Cleaner Requirements
+
+# Built-in Python libraries used:
+# imaplib
+# email
+# os
+# json
+
+# No external packages required.
